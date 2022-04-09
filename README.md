@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giuliava
-- 👀 I’m interested in Web Developing and Web Design.
-- 🌱 I’m currently learning how to code with a full-stack web development bootcamp. I completed a course on WordPress web development.
-- 💞️ I’m looking to collaborate on WordPress projects.
+- 👀 I’m interested in Web Development and Web Design.
+- 🌱 I’m currently learning how to code with a full-stack web development bootcamp. I have also completed a course on WordPress web development.
+- 💞️ I’m looking to collaborate on WordPress projects or any junior projects, to get more experience.
 - 📫 How to reach me: send me an email at giuliavaservices@gmail.com 
 
 <!---
